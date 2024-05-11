@@ -14,10 +14,7 @@ function About(){
           believe that by coming together, we can increase the chances of
           reuniting lost items with their rightful owners.
         </p>
-        <footer>
-            
-            <p>Designed and Built by Brunda N     Grishma G     Srishti</p>
-        </footer>
+        
       </section>
       
     );
